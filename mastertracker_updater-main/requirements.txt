@@ -1,5 +1,0 @@
-streamlit
-pandas
-openpyxl
-pandas-gbq
-google-cloud-bigquery
